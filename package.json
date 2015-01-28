@@ -1,0 +1,19 @@
+{
+  "name": "cryptograph",
+  "version": "1.0.0",
+  "description": "A simple text encode-decode script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "encode",
+    "decode",
+    "cryptograph",
+    "cipher",
+    "encoder",
+    "decoder"
+  ],
+  "author": "Mike Kauffman <mkauffman@quickleft.com> (https://quickleft.com)",
+  "license": "MIT"
+}
