@@ -19,5 +19,8 @@
     "decoder"
   ],
   "author": "Mike Kauffman <mkauffman@quickleft.com> (https://quickleft.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
 }
